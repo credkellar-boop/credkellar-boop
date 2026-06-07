@@ -23,7 +23,14 @@
 ![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Makefile](https://img.shields.io/badge/makefile-000000?style=for-the-badge&logo=gnu&logoColor=white)
 ![Zig](https://img.shields.io/badge/zig-f7a41d?style=for-the-badge&logo=zig&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Yara](https://img.shields.io/badge/Yara-444444.svg?style=for-the-badge&logo=yara&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%232c3e50.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![GDShader](https://img.shields.io/badge/GDShader-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=credkellar-boop&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?=credkellar-boop&show_icons=true)
 
