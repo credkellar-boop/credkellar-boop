@@ -29,8 +29,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%232c3e50.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDShader](https://img.shields.io/badge/GDShader-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
-![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![eBPF](https://img.shields.io/badge/eBPF-XDP-orange)
 ![DPDK](https://img.shields.io/badge/DPDK-Supported-blue)
