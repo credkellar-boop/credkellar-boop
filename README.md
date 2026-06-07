@@ -29,7 +29,16 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%232c3e50.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDShader](https://img.shields.io/badge/GDShader-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![eBPF](https://img.shields.io/badge/eBPF-XDP-orange)
+![DPDK](https://img.shields.io/badge/DPDK-Supported-blue)
+![AI Model](https://img.shields.io/badge/AI-Llama_3-purple)
+![SQLMap](https://img.shields.io/badge/SQLMap-Tamper_Script-lightgrey)
+![io_uring](https://img.shields.io/badge/io_uring-High_Perf-brightgreen)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Category](https://img.shields.io/badge/Category-Red_Team_Infrastructure-darkred)
 
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?=credkellar-boop&show_icons=true)
