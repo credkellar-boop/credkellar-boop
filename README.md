@@ -2,11 +2,11 @@
   <img src="80D29B8A-6825-40B9-98EA-BCDF657230AD.jpeg" alt="Profile Image" width="400"/>
 </p>
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">What's cRACKIN</h1>
 
 ## About me:
-* 🔭 I’m currently working on **Monad-HFT-Node**.
-* 💬 Ask me about **Cryptocurrency-Notification**.
+* 🔭 I’m currently working on elavating.
+* 💬 Ask me about 
 * ⚡ I specialize in high-performance trading nodes, AI-driven security, and automated infrastructure.
 
 ### Tech Stack & Languages
