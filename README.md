@@ -38,6 +38,29 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Category](https://img.shields.io/badge/Category-Red_Team_Infrastructure-darkred)
 
+### Community & Socials
+#### Servers & Tags
+![CYBR](https://img.shields.io/badge/CYBR-%E2%9A%94%EF%B8%8F-purple)
+![HAKR](https://img.shields.io/badge/HAKR-%F0%9F%92%80-black)
+![HACK](https://img.shields.io/badge/HACK-%F0%9F%97%A1%EF%B8%8F-orange)
+![THM](https://img.shields.io/badge/THM-%F0%9F%97%A1%EF%B8%8F-green)
+![BASE](https://img.shields.io/badge/BASE-%F0%9F%94%A5-blue)
+![EVM](https://img.shields.io/badge/EVM-%F0%9F%92%9C-violet)
+
+#### Connect & Communities
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/deelord1993)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/2137123474)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/12137123474)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/credkellar-boop/s/8FOD1Zh0IP)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/deelowsolo1)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/dontmattershidd)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ysndeefrmoutwest)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darion-kellar-036965407)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:credkellar@gmail.com)
+
+#### Crates.io Profile
+[![Crates.io](https://img.shields.io/badge/Crates.io-Profile-orange?logo=rust)](https://crates.io/users/credkellar-boop)
+
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?=credkellar-boop&show_icons=true)
 
