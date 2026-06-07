@@ -6,8 +6,10 @@
 
 ## About me:
 * 🔭 I’m currently working on elavating.
-* 💬 Ask me about 
-* ⚡ I specialize in high-performance trading nodes, AI-driven security, and automated infrastructure.
+* 💬 Ask me about anything!
+* ⚡ I'm AI-Assisted Developer (Centaur)
+* 📍 I'm from Chicago.... Livin in Cali
+* ♒️ I'm a Aquarius
 
 ### Tech Stack & Languages
 ![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
