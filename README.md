@@ -38,6 +38,12 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Category](https://img.shields.io/badge/Category-Red_Team_Infrastructure-darkred)
 
+### Platform Support
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 ### Community & Socials
 #### Servers & Tags
 ![CYBR](https://img.shields.io/badge/CYBR-%E2%9A%94%EF%B8%8F-purple)
