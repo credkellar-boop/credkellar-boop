@@ -68,9 +68,6 @@
 #### Crates.io Profile
 [![Crates.io](https://img.shields.io/badge/Crates.io-Profile-orange?logo=rust)](https://crates.io/users/credkellar-boop)
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?=credkellar-boop&show_icons=true)
-
 ## Donation
 (To buy full subscription of business structure, strip codes, ampilify and create public repo)
 
