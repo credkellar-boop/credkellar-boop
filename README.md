@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">What's cRACKIN?</h1>
-<img src="https://komarev.com/ghpvc/?username=credkellar-boop" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=credkellar-boop" alt="Profile Views" />👀👥
 
 ## About me:
 * 🔭 I’m currently working on elavating.
