@@ -73,3 +73,5 @@
 (To buy full subscription of business structure, strip codes, ampilify and create public repo)
 
 Monad 0xE7512f65508306Dc669Ef232Bcb31A8Aacd73A37
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=credkellar-boop&theme=dark)](https://git.io/streak-stats)
