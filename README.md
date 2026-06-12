@@ -72,7 +72,7 @@
 ## Donation
 (To buy full subscription of business structure, strip codes, ampilify and create public repo)
 
-##SHOUT TO "ff4f"!!!
+##SHOUTOUT TO "ff4f"!!! WISH YOU THE BEST IN LIFE!!!
 <p align="center">
   <img src="IMG_0488.jpeg" alt="Profile Image" width="400"/>
 </p>
