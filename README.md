@@ -54,6 +54,10 @@
 ![THM](https://img.shields.io/badge/THM-%F0%9F%97%A1%EF%B8%8F-green)
 ![BASE](https://img.shields.io/badge/BASE-%F0%9F%94%A5-blue)
 ![EVM](https://img.shields.io/badge/EVM-%F0%9F%92%9C-violet)
+![1MIN](https://img.shields.io/badge/1MIN-🍂-orange)
+![GHUB](https://img.shields.io/badge/GHUB-🐱-grey)
+![HUNT](https://img.shields.io/badge/HUNT-🪶-purple)
+![TRT](https://img.shields.io/badge/TRT-🔥-red)
 
 #### Connect & Communities
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/deelord1993)
