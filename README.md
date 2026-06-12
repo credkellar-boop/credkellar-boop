@@ -83,4 +83,17 @@
 
 #Monad 0xE7512f65508306Dc669Ef232Bcb31A8Aacd73A37
 
+### 📊 My GitHub Analytics
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=credkellar-boop&theme=dark)](https://git.io/streak-stats)
+
+<!-- GitHub Stats Card -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=credkellar-boop&show_icons=true&theme=tokyonight&rank_icon=github" alt="credkellar-boop's GitHub Stats" />
+</p>
+
+<!-- Most Used Languages Card -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=credkellar-boop&theme=tokyonight&layout=normal" alt="credkellar-boop's Most Used Languages" />
+</p>
+
