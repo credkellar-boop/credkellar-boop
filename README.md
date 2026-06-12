@@ -72,6 +72,11 @@
 ## Donation
 (To buy full subscription of business structure, strip codes, ampilify and create public repo)
 
-Monad 0xE7512f65508306Dc669Ef232Bcb31A8Aacd73A37
+##SHOUT TO "ff49"!!!
+<p align="center">
+  <img src="IMG_0488.jpeg" alt="Profile Image" width="400"/>
+</p>
+
+#Monad 0xE7512f65508306Dc669Ef232Bcb31A8Aacd73A37
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=credkellar-boop&theme=dark)](https://git.io/streak-stats)
