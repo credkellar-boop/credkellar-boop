@@ -76,12 +76,14 @@
 ## Donation
 (To buy full subscription of business structure, strip codes, ampilify and create public repo)
 
-#### 🌐💰 SHOUTOUT TO "FF4f"!!! WISH YOU THE BEST IN LIFE!!!
+#### 🌐💰 SHOUTOUT TO "FF4F"!!! WISH YOU THE BEST IN LIFE!!!
 <p align="center">
   <img src="IMG_0488.jpeg" alt="Profile Image" width="400"/>
 </p>
 
-#Monad 0xE7512f65508306Dc669Ef232Bcb31A8Aacd73A37
+### MONAD
+
+0xE7512f65508306Dc669Ef232Bcb31A8Aacd73A37
 
 ### 📊 My GitHub Analytics
 
