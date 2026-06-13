@@ -4,7 +4,8 @@
 
 <h1 align="center">What's cRACKIN?</h1>
 <img src="https://komarev.com/ghpvc/?username=credkellar-boop" alt="Profile Views" />👀👥
-![Total Forks](https://img.shields.io/github/forks/credkellar-boop?style=flat-square&label=Total%20Forks)
+
+(https://img.shields.io/github/forks/credkellar-boop?style=flat-square&label=Total%20Forks)
 
 
 ## About me:
