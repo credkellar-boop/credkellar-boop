@@ -39,6 +39,12 @@
 ![io_uring](https://img.shields.io/badge/io_uring-High_Perf-brightgreen)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Category](https://img.shields.io/badge/Category-Red_Team_Infrastructure-darkred)
+![AWSl](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Alibaba](https://img.shields.io/badge/AlibabaCloud-%23FF6600.svg?style=flat&logo=alibabacloud&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM%20Cloud-%231261FE.svg?style=flat&logo=ibm-cloud&logoColor=white)
+![Tencent](https://img.shields.io/badge/TencentCloud-%230052D9.svg?style=flat&logo=tencent-qq&logoColor=white)
 
 ### Platform Support
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
