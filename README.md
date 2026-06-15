@@ -75,6 +75,9 @@
 ![Build Build](https://img.shields.io/badge/🏗️%20Build-passing-brightgreen?style=flat-square)
 ![Build Zig](https://img.shields.io/badge/🏗️%20Build-build.zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
 ![CMake Lists](https://img.shields.io/badge/📜%20Build-CMakeLists.txt-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Terraform--Managed-purple?style=flat-square&logo=terraform)
+![Security](https://img.shields.io/badge/Security-Zero--Trust_|_QKD_|_FHE-blue?style=flat-square&logo=cisco)
+![Deployment](https://img.shields.io/badge/Deployment-GCP_Confidential_VMs-1a73e8?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
