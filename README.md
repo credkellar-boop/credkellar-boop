@@ -60,6 +60,9 @@
 ### 🧠 Artificial Intelligence
 ![Llama 3](https://img.shields.io/badge/🦙%20Local%20AI-Llama%203-0433FF?style=flat-square&logo=meta&logoColor=white)
 ![Triton Server](https://img.shields.io/badge/🏛️%20AI%20Inference-Triton%20Server-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/💬%20AI%20Model-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/🪶%20AI%20Model-Claude-D97756?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/♊%20AI%20Model-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
 
 ---
 
