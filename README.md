@@ -78,6 +78,9 @@
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-Terraform--Managed-purple?style=flat-square&logo=terraform)
 ![Security](https://img.shields.io/badge/Security-Zero--Trust_|_QKD_|_FHE-blue?style=flat-square&logo=cisco)
 ![Deployment](https://img.shields.io/badge/Deployment-GCP_Confidential_VMs-1a73e8?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase/Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
