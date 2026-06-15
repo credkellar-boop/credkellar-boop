@@ -32,14 +32,14 @@
 
 ---
 
-### ⚙️ Core Systems (`/core_systems`)
+### ⚙️ Core Systems
 ![Rust Orchestrator](https://img.shields.io/badge/🧠%20Core%20System-rust__orchestrator-orange?style=flat-square&logo=rust&logoColor=white)
 ![CUDA Acceleration](https://img.shields.io/badge/🚀%20Core%20System-cuda__acceleration-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Zig Utils](https://img.shields.io/badge/🛠️%20Core%20System-zig__utils-F7A41D?style=flat-square&logo=zig&logoColor=white)
 
 ---
 
-### 🛡️ Cybersecurity & Offensive Auditing (`/security_fuzzing` & `/red_team_infrastructure`)
+### 🛡️ Cybersecurity & Offensive Auditing
 ![AFL Harnesses](https://img.shields.io/badge/🔥%20Fuzzing-afl__harnesses-red?style=flat-square&logo=linux&logoColor=white)
 ![LibFuzzer Targets](https://img.shields.io/badge/🎯%20Fuzzing-libfuzzer__targets-crimson?style=flat-square)
 ![Syzkaller CFGs](https://img.shields.io/badge/🛡️%20Kernel%20Fuzzing-syzkaller__cfgs-darkred?style=flat-square&logo=linux&logoColor=white)
@@ -50,14 +50,14 @@
 
 ---
 
-### ⚡ Low-Level Infrastructure & Performance (`/low_level_perf`)
+### ⚡ Low-Level Infrastructure & Performance
 ![DPDK Pipeline](https://img.shields.io/badge/🛣️%20Networking-dpdk__pipeline-0066CC?style=flat-square)
 ![eBPF / XDP Hooks](https://img.shields.io/badge/🪝%20Kernel%20Hooks-eBPF%20%2F%20XDP-008080?style=flat-square&logo=linux&logoColor=white)
 ![io_uring](https://img.shields.io/badge/📥%20Async%20I%2FO-io__uring-deepskyblue?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
-### 🧠 Artificial Intelligence (`/ai_models`)
+### 🧠 Artificial Intelligence
 ![Llama 3](https://img.shields.io/badge/🦙%20Local%20AI-Llama%203-0433FF?style=flat-square&logo=meta&logoColor=white)
 ![Triton Server](https://img.shields.io/badge/🏛️%20AI%20Inference-Triton%20Server-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
