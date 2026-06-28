@@ -153,3 +153,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=credkellar-boop&theme=tokyonight&layout=normal" alt="credkellar-boop's Most Used Languages" />
 </p>
 
+![3D Contribution Graph](./profile-3d-contrib/profile-3d-contrib-step.svg)
+
+
