@@ -14,10 +14,10 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ credkellar-boop}}
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config credkellar-boop github-actions
+          git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated 3D contrib graph"
